@@ -1,0 +1,846 @@
+[
+ {
+  "slug": "stake-poker",
+  "no": "01",
+  "title": "Stake Poker",
+  "category": "Campaign",
+  "year": "2026",
+  "runtime": "01:54",
+  "client": "Stake",
+  "status": "Client",
+  "role": "Direction, edit, sound",
+  "still": "p01",
+  "depth": "deep",
+  "format": "9:16",
+  "card": "A poker brand's launch cut two ways — one film at the table, one through the app.",
+  "brief": "Two vertical films for a poker brand's Spanish-language launch: a narrative spot at the table, and a faster cut that carries the app.",
+  "summary": "One campaign, two vertical films. The first holds on faces and chips under a single lamp; the second moves — arcade light, the app, the same player in the same world.",
+  "film": "assets/video/stake-poker.mp4",
+  "preview": true,
+  "vimeo": null,
+  "sections": [
+   {
+    "label": "01 — Brief",
+    "head": "Two films, one campaign",
+    "paras": [
+     "The launch needed a film and something that could survive a feed. Instead of cropping one edit down, the campaign was delivered as two finished vertical films: a narrative spot that stays at the table, and a faster piece that carries the app through the same world.",
+     "Both were finished in Spanish, with the interface language matching the market rather than being redrawn for it."
+    ]
+   },
+   {
+    "label": "02 — Direction",
+    "head": "The lamp is the antagonist",
+    "paras": [
+     "One practical overhead light does all the work. It picks out hands, chips and faces and leaves everything else black, which meant the camera could stay low and still and let the performances carry the frame.",
+     "The app appears only when the hand turns — the phone is a consequence of the scene, never the reason for it."
+    ]
+   },
+   {
+    "label": "03 — Cut",
+    "head": "Two tempos, one board",
+    "paras": [
+     "The table film is patient: wide overhead, then faces, then chips. Sound carries the tension — chips, breath, the lamp — and the score only arrives once the outcome is already decided.",
+     "The second film is cut to the length of a scroll: arcade neon, the app opening in the dark, the same player moving through it. Same grade, same type, different pulse."
+    ]
+   }
+  ],
+  "quote": "The table is the set. Everything else is a reaction shot.",
+  "stills": [
+   {
+    "img": "s01",
+    "caption": "The table, from above — the lamp does the lighting"
+   },
+   {
+    "img": "s02",
+    "caption": "The app, in Spanish — shown once the hand turns"
+   },
+   {
+    "img": "s03",
+    "caption": "The read — held a beat too long"
+   }
+  ],
+  "credits": [
+   {
+    "role": "Client",
+    "value": "Stake"
+   },
+   {
+    "role": "Direction",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Edit",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Sound",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Grade",
+    "value": "Studio LUT"
+   },
+   {
+    "role": "Runtime",
+    "value": "01:00 + 00:54"
+   },
+   {
+    "role": "Language",
+    "value": "Spanish / English"
+   }
+  ],
+  "poster": "v-stake-poker.jpg",
+  "films": [
+   {
+    "src": "assets/video/stake-poker.mp4",
+    "label": "Film 01 — The table",
+    "runtime": "01:00",
+    "format": "9:16",
+    "poster": "v-stake-poker.jpg"
+   },
+   {
+    "src": "assets/video/stake-poker-b.mp4",
+    "label": "Film 02 — The app",
+    "runtime": "00:54",
+    "format": "9:16",
+    "poster": "v-stake-poker-b.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "watchers",
+  "no": "02",
+  "title": "Watchers",
+  "category": "Film",
+  "year": "2026",
+  "runtime": "01:04",
+  "client": "Original",
+  "status": "Original",
+  "role": "Direction, edit, sound, grade",
+  "still": "p02",
+  "depth": "deep",
+  "format": "16:9",
+  "card": "A science-fiction short told from the inside of a cockpit.",
+  "brief": "An original short: a station, a classroom, and a launch nobody on the ground can stop.",
+  "summary": "A short science-fiction film cut from eight shots — a station, a lecture hall, and a launch seen from the wrong side of the glass.",
+  "film": "assets/video/watchers.mp4",
+  "preview": true,
+  "vimeo": null,
+  "sections": [
+   {
+    "label": "01 — Brief",
+    "head": "Eight shots, one argument",
+    "paras": [
+     "An original piece, made to test how far a small number of shots could carry a story. The premise is simple: something is leaving, and the people watching it have disagreed about whether it should.",
+     "No dialogue. The argument is carried by framing — who is inside the glass and who is outside it."
+    ]
+   },
+   {
+    "label": "02 — Direction",
+    "head": "Scope, because the room is wide",
+    "paras": [
+     "Shot in 2.35:1 so the cockpit reads as architecture rather than a dashboard. The camera sits where a passenger would sit: fixed, close to the instrument panel, looking out.",
+     "Every shot was boarded before rendering, including the two classroom frames that establish who is watching and what they already know."
+    ]
+   },
+   {
+    "label": "03 — Finish",
+    "head": "Cold ship, warm window",
+    "paras": [
+     "The grade separates the two worlds: the station is blue and almost monochrome, the window is the only warm surface in the film. Sound is low and mechanical until the launch, then it drops out entirely for the last four seconds."
+    ]
+   }
+  ],
+  "quote": "The audience should feel the glass before they notice the room.",
+  "stills": [
+   {
+    "img": "s04",
+    "caption": "Lecture hall — the argument, before the launch"
+   },
+   {
+    "img": "s05",
+    "caption": "Operations deck — watching, not helping"
+   },
+   {
+    "img": "s06",
+    "caption": "Title — Watchers, light"
+   }
+  ],
+  "credits": [
+   {
+    "role": "Client",
+    "value": "Original"
+   },
+   {
+    "role": "Direction",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Edit",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Sound",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Grade",
+    "value": "Studio LUT"
+   },
+   {
+    "role": "Runtime",
+    "value": "01:04"
+   },
+   {
+    "role": "Format",
+    "value": "2.35:1 scope"
+   }
+  ]
+ },
+ {
+  "slug": "hermanos-tacos",
+  "no": "03",
+  "title": "Hermanos Tacos",
+  "category": "Food",
+  "year": "2026",
+  "runtime": "00:15",
+  "client": "Hermanos Tacos",
+  "status": "Client",
+  "role": "Direction, edit",
+  "still": "p03",
+  "depth": "deep",
+  "format": "9:16",
+  "card": "Street food shot like product — and cut for a phone.",
+  "brief": "A fifteen-second vertical film for a Mexican street-food brand: the taco, the dip, the hand.",
+  "summary": "Fifteen seconds, vertical, sound off: a taco is dipped, lifted and eaten before the viewer has decided to keep watching.",
+  "film": "assets/video/hermanos-tacos.mp4",
+  "preview": true,
+  "vimeo": null,
+  "sections": [
+   {
+    "label": "01 — Brief",
+    "head": "Vertical, silent, hungry",
+    "paras": [
+     "The film had to work as a paid social cut with no sound and no text for the first two seconds. That rules out a logo open and a talking head — the food has to be the first frame and the whole argument.",
+     "Deliverables were one 15-second master and a set of stills for the menu and the truck wrap."
+    ]
+   },
+   {
+    "label": "02 — Direction",
+    "head": "Macro, hands, one light",
+    "paras": [
+     "Everything is shot close enough that the frame is mostly texture: tortilla, consommé, onion, steam. Black gloves keep the hands neutral and stop the eye from reading a person instead of the food.",
+     "A single hard source from the side keeps the highlights wet and the background black, so the cut holds up on a phone at half brightness."
+    ]
+   },
+   {
+    "label": "03 — Cut",
+    "head": "Three moves, no wasted frames",
+    "paras": [
+     "Dip, lift, bite. Each beat gets its own shot and none of them repeat. The last frame is the plate, held long enough to read as a menu item rather than an ending."
+    ]
+   }
+  ],
+  "quote": "If the first frame is not food, the scroll has already won.",
+  "stills": [
+   {
+    "img": "s07",
+    "caption": "The dip — consommé, corn tortilla, onion"
+   },
+   {
+    "img": "s08",
+    "caption": "Nachos — menu still, same light"
+   },
+   {
+    "img": "s09",
+    "caption": "Quesadilla — the third cutdown"
+   }
+  ],
+  "credits": [
+   {
+    "role": "Client",
+    "value": "Hermanos Tacos"
+   },
+   {
+    "role": "Direction",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Edit",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Sound",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Grade",
+    "value": "Studio LUT"
+   },
+   {
+    "role": "Runtime",
+    "value": "00:15"
+   },
+   {
+    "role": "Format",
+    "value": "9:16 vertical"
+   }
+  ],
+  "poster": "v-hermanos-tacos.jpg"
+ },
+ {
+  "slug": "main-ai",
+  "no": "04",
+  "title": "CLICK",
+  "category": "Film",
+  "year": "2026",
+  "runtime": "01:11",
+  "client": "Original",
+  "status": "Original",
+  "role": "Direction, edit, sound",
+  "still": "p04",
+  "depth": "light",
+  "format": "16:9",
+  "card": "A late-night session that turns into a negotiation.",
+  "brief": "A narrative short about a player, a headset and something on the other side of the screen.",
+  "summary": "A short narrative film: a player alone in a dark room, a headset that will not stay quiet, and a visitor who has read the terms and conditions.",
+  "film": "assets/video/main-ai.mp4",
+  "preview": true,
+  "vimeo": null,
+  "sections": [
+   {
+    "label": "01 — Note",
+    "head": "One room, two voices",
+    "paras": [
+     "Written as a single-location piece so that all of the production value could go into the face and the light rather than into coverage. The horror is contractual rather than violent: something is offering a deal, and the deal is legible.",
+     "The film leans on the pause before an answer — the cut holds longer than is comfortable, which is where the tension actually lives."
+    ]
+   }
+  ],
+  "quote": "The scariest frame is the one where nobody moves.",
+  "stills": [],
+  "credits": [
+   {
+    "role": "Client",
+    "value": "Original"
+   },
+   {
+    "role": "Direction",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Edit",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Sound",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Grade",
+    "value": "Studio LUT"
+   },
+   {
+    "role": "Runtime",
+    "value": "01:11"
+   }
+  ]
+ },
+ {
+  "slug": "midea",
+  "no": "05",
+  "title": "Midea",
+  "category": "Product",
+  "year": "2026",
+  "runtime": "00:30",
+  "client": "Midea — concept",
+  "status": "Concept",
+  "role": "Direction, edit, grade",
+  "still": "p05",
+  "depth": "light",
+  "format": "16:9",
+  "card": "White goods, warm light, no hard sell.",
+  "brief": "A concept film for a home-appliance range: coffee, laundry, the idea of a quiet morning.",
+  "summary": "A thirty-second concept for a home-appliance range, built around the small rituals a machine is allowed to interrupt.",
+  "film": "assets/video/midea.mp4",
+  "preview": true,
+  "vimeo": null,
+  "sections": [
+   {
+    "label": "01 — Note",
+    "head": "Sell the morning, not the motor",
+    "paras": [
+     "Appliance films usually open on the product with a specification super. This one opens on a hand, a cup and steam, and lets the machine arrive as the reason the shot exists.",
+     "The supers stay conversational — “the ideal home”, “simply ideal” — because the film is a mood piece with a product in it, not a leaflet."
+    ]
+   }
+  ],
+  "quote": "The product is the answer. The morning is the question.",
+  "stills": [],
+  "credits": [
+   {
+    "role": "Client",
+    "value": "Midea — concept"
+   },
+   {
+    "role": "Direction",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Edit",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Sound",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Grade",
+    "value": "Studio LUT"
+   },
+   {
+    "role": "Runtime",
+    "value": "00:30"
+   },
+   {
+    "role": "Status",
+    "value": "Concept, not commissioned"
+   }
+  ]
+ },
+ {
+  "slug": "pandora",
+  "no": "06",
+  "title": "Pandora",
+  "category": "Fashion",
+  "year": "2026",
+  "runtime": "00:18",
+  "client": "Pandora — concept",
+  "status": "Concept",
+  "role": "Direction, edit",
+  "still": "p06",
+  "depth": "light",
+  "format": "9:16",
+  "card": "Jewellery at wrist height, in daylight.",
+  "brief": "A vertical concept for a jewellery house: charms, cuffs and the hand that wears them.",
+  "summary": "A vertical concept film that keeps the camera at wrist height and lets daylight do the selling.",
+  "film": "assets/video/pandora.mp4",
+  "preview": true,
+  "vimeo": null,
+  "sections": [
+   {
+    "label": "01 — Note",
+    "head": "Hands, not faces",
+    "paras": [
+     "The cast is directed to use their hands the way people actually do — adjusting a cuff, holding a bag, touching a collar — so the jewellery is always in motion and never presented on a velvet tray.",
+     "Two looks, one light direction, cut to a single piece of music. The vertical frame keeps the wrist and the face in the same shot, which is the only composition that survives a feed."
+    ]
+   }
+  ],
+  "quote": "Jewellery is not a still life. It is a gesture.",
+  "stills": [],
+  "credits": [
+   {
+    "role": "Client",
+    "value": "Pandora — concept"
+   },
+   {
+    "role": "Direction",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Edit",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Sound",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Grade",
+    "value": "Studio LUT"
+   },
+   {
+    "role": "Runtime",
+    "value": "00:18"
+   },
+   {
+    "role": "Status",
+    "value": "Concept, not commissioned"
+   }
+  ],
+  "poster": "v-pandora.jpg"
+ },
+ {
+  "slug": "rhode",
+  "no": "07",
+  "title": "Rhode",
+  "category": "Beauty",
+  "year": "2026",
+  "runtime": "00:15",
+  "client": "Rhode — concept",
+  "status": "Concept",
+  "role": "Direction, edit",
+  "still": "p07",
+  "depth": "light",
+  "format": "9:16",
+  "card": "Skin, close enough to see the light change.",
+  "brief": "A skincare concept cut for the feed: texture, product, and a face that does not perform.",
+  "summary": "A skincare concept in which the product is never held up to camera — it is simply already in the room.",
+  "film": "assets/video/rhode.mp4",
+  "preview": true,
+  "vimeo": null,
+  "sections": [
+   {
+    "label": "01 — Note",
+    "head": "No before-and-after",
+    "paras": [
+     "Beauty films tend to promise a result in the last frame. This one refuses the reveal and stays on texture: cream on skin, light across a cheek, a product resting where a person put it down.",
+     "The palette is warm and almost monochrome so the brand colour reads as a single object rather than a graphic."
+    ]
+   }
+  ],
+  "quote": "The claim is texture. Everything else is packaging.",
+  "stills": [],
+  "credits": [
+   {
+    "role": "Client",
+    "value": "Rhode — concept"
+   },
+   {
+    "role": "Direction",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Edit",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Sound",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Grade",
+    "value": "Studio LUT"
+   },
+   {
+    "role": "Runtime",
+    "value": "00:15"
+   },
+   {
+    "role": "Status",
+    "value": "Concept, not commissioned"
+   }
+  ],
+  "poster": "v-rhode.jpg"
+ },
+ {
+  "slug": "alo",
+  "no": "08",
+  "title": "Alo",
+  "category": "Fashion",
+  "year": "2026",
+  "runtime": "00:11",
+  "client": "Alo — concept",
+  "status": "Concept",
+  "role": "Direction, edit",
+  "still": "p08",
+  "depth": "light",
+  "format": "9:16",
+  "card": "Activewear in the city, not in the studio.",
+  "brief": "An eleven-second vertical concept: movement, daylight, a jacket that behaves like clothing.",
+  "summary": "An eleven-second concept that puts activewear on a street corner instead of a seamless backdrop.",
+  "film": "assets/video/alo.mp4",
+  "preview": true,
+  "vimeo": null,
+  "sections": [
+   {
+    "label": "01 — Note",
+    "head": "Move like a person, not a mannequin",
+    "paras": [
+     "The direction was one instruction: walk like you are late. The frame stays wide enough to see the street and the fit at the same time, so the garment is proven by movement rather than by a turn on the spot.",
+     "Natural light, no fill, and a grade that keeps the greens of the park slightly cold against the warmth of the skin."
+    ]
+   }
+  ],
+  "quote": "If it only works standing still, it is not clothing.",
+  "stills": [],
+  "credits": [
+   {
+    "role": "Client",
+    "value": "Alo — concept"
+   },
+   {
+    "role": "Direction",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Edit",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Sound",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Grade",
+    "value": "Studio LUT"
+   },
+   {
+    "role": "Runtime",
+    "value": "00:11"
+   },
+   {
+    "role": "Status",
+    "value": "Concept, not commissioned"
+   }
+  ],
+  "poster": "v-alo.jpg"
+ },
+ {
+  "slug": "kayali",
+  "no": "09",
+  "title": "Kayali",
+  "category": "Beauty",
+  "year": "2026",
+  "runtime": "00:25",
+  "client": "Kayali — concept",
+  "status": "Concept",
+  "role": "Direction, edit, grade",
+  "still": "p09",
+  "depth": "light",
+  "format": "9:16",
+  "card": "A fragrance film that behaves like a title sequence.",
+  "brief": "A vertical concept for a fragrance: red glass, liquid, and a bottle treated like a character.",
+  "summary": "A fragrance concept shot like a title sequence — the bottle enters, holds the frame, and refuses to share it.",
+  "film": "assets/video/kayali.mp4",
+  "preview": true,
+  "vimeo": null,
+  "sections": [
+   {
+    "label": "01 — Note",
+    "head": "One colour, one object",
+    "paras": [
+     "The whole film is built on red: glass, liquid, light through the bottle, and the skin tone it throws back. Everything else is black or a highlight.",
+     "It is cut slower than a social ad normally allows, because the product is the performance — the camera moves around the bottle rather than the bottle moving for the camera."
+    ]
+   }
+  ],
+  "quote": "A bottle can hold a close-up. Most products cannot.",
+  "stills": [],
+  "credits": [
+   {
+    "role": "Client",
+    "value": "Kayali — concept"
+   },
+   {
+    "role": "Direction",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Edit",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Sound",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Grade",
+    "value": "Studio LUT"
+   },
+   {
+    "role": "Runtime",
+    "value": "00:25"
+   },
+   {
+    "role": "Status",
+    "value": "Concept, not commissioned"
+   }
+  ],
+  "poster": "v-kayali.jpg"
+ },
+ {
+  "slug": "escato",
+  "no": "10",
+  "title": "Teascato",
+  "category": "Product",
+  "year": "2026",
+  "runtime": "00:15",
+  "client": "Teascato — concept",
+  "status": "Concept",
+  "role": "Direction, edit",
+  "still": "p10",
+  "depth": "light",
+  "format": "9:16",
+  "card": "A drink ad built on one colour and one gesture.",
+  "brief": "A vertical concept for a canned drink: the can, the condensation, the first sip.",
+  "summary": "A drink concept that treats the can as the only prop and the first sip as the only event.",
+  "film": "assets/video/escato.mp4",
+  "preview": true,
+  "vimeo": null,
+  "sections": [
+   {
+    "label": "01 — Note",
+    "head": "Cold, in one take",
+    "paras": [
+     "The film was planned as a single continuous move from can to face, cut only where the sip demands it. Condensation and the sound of the tab do more work than any copy line could.",
+     "The orange of the can is the only saturated colour in the grade, which is why the frame reads from across a room."
+    ]
+   }
+  ],
+  "quote": "One colour, one gesture, one sip.",
+  "stills": [],
+  "credits": [
+   {
+    "role": "Client",
+    "value": "Teascato — concept"
+   },
+   {
+    "role": "Direction",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Edit",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Sound",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Grade",
+    "value": "Studio LUT"
+   },
+   {
+    "role": "Runtime",
+    "value": "00:15"
+   },
+   {
+    "role": "Status",
+    "value": "Concept, not commissioned"
+   }
+  ],
+  "poster": "v-escato.jpg"
+ },
+ {
+  "slug": "moni-blat",
+  "no": "11",
+  "title": "Moni Blat",
+  "category": "Fashion",
+  "year": "2026",
+  "runtime": "00:10",
+  "client": "Moni Blat — concept",
+  "status": "Concept",
+  "role": "Direction, edit",
+  "still": "p11",
+  "depth": "light",
+  "format": "16:9",
+  "card": "Ten seconds, one bag, a car that will not wait.",
+  "brief": "A short concept for an accessories label: a bag, a back seat, a city at dusk.",
+  "summary": "A ten-second concept in which the bag is the only still object in a moving frame.",
+  "film": "assets/video/moni-blat.mp4",
+  "preview": true,
+  "vimeo": null,
+  "sections": [
+   {
+    "label": "01 — Note",
+    "head": "Let the city move",
+    "paras": [
+     "Shot from the back seat with the bag on the leather, the film lets traffic and streetlight do the motion. The product never moves; the world does, which is a cheaper and better way to say “made to be carried”.",
+     "Ten seconds, no dialogue, one insert. The bag gets three frames of close-up and earns them."
+    ]
+   }
+  ],
+  "quote": "Keep the product still. Move the world around it.",
+  "stills": [],
+  "credits": [
+   {
+    "role": "Client",
+    "value": "Moni Blat — concept"
+   },
+   {
+    "role": "Direction",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Edit",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Sound",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Grade",
+    "value": "Studio LUT"
+   },
+   {
+    "role": "Runtime",
+    "value": "00:10"
+   },
+   {
+    "role": "Status",
+    "value": "Concept, not commissioned"
+   }
+  ]
+ },
+ {
+  "slug": "final-2",
+  "no": "12",
+  "title": "Emotional video",
+  "category": "Film",
+  "year": "2026",
+  "runtime": "00:23",
+  "client": "Original",
+  "status": "Original",
+  "role": "Direction, edit, grade",
+  "still": "p12",
+  "depth": "light",
+  "format": "16:9",
+  "card": "A dog, a field, and a twenty-three-second goodbye.",
+  "brief": "A short narrative piece about a dog that will not stay in the shot.",
+  "summary": "A twenty-three-second short about a dog that refuses direction, and the person who stops trying to give it.",
+  "film": "assets/video/final-2.mp4",
+  "preview": true,
+  "vimeo": null,
+  "sections": [
+   {
+    "label": "01 — Note",
+    "head": "Directed by the dog",
+    "paras": [
+     "The film was built around what the animal actually did rather than what the board asked for. Every shot in the cut is a take that was kept because the dog broke the plan in a better way.",
+     "It is the shortest piece in the index and the one that taught the most about holding a frame: you cannot rush an animal, and you should not rush an audience either."
+    ]
+   }
+  ],
+  "quote": "Some takes are better because the plan failed.",
+  "stills": [],
+  "credits": [
+   {
+    "role": "Client",
+    "value": "Original"
+   },
+   {
+    "role": "Direction",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Edit",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Sound",
+    "value": "Eluwade Tunmise"
+   },
+   {
+    "role": "Grade",
+    "value": "Studio LUT"
+   },
+   {
+    "role": "Runtime",
+    "value": "00:23"
+   }
+  ]
+ }
+]

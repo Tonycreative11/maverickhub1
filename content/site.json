@@ -1,0 +1,18 @@
+{
+  "name": "Maverick Hub",
+  "wordmark": "Maverick Hub",
+  "tagline": "A film studio for brands.",
+  "description": "Maverick Hub is an AI film studio. Brand films, product launches and campaigns — directed and cut by hand, rendered without a crew.",
+  "url": "",
+  "email": "maverickplushub@gmail.com",
+  "city": "",
+  "founder": "Eluwade Tunmise",
+  "hours": "Working across US / UK / EU time zones",
+  "social": [
+    { "label": "Instagram", "url": "https://www.instagram.com/maverick_plus03/" },
+    { "label": "Facebook", "url": "https://www.facebook.com/maverickplus03/" }
+  ],
+  "form_endpoint": "",
+  "form_note": "No newsletter. No CRM. Your brief goes to one inbox and gets a reply within two working days.",
+  "availability": "Booking Q1 2027 — two slots per month"
+}
