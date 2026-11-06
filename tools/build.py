@@ -646,7 +646,7 @@ def about() -> str:
     <div class="fact"><dt>Studio</dt><dd>{e(SITE['name'])} — an AI film studio for brands</dd></div>
     <div class="fact"><dt>Working with</dt><dd>Founders, DTC brands, agencies and in-house brand teams</dd></div>
     <div class="fact"><dt>Engagements</dt><dd>Single films, launch packages, retained campaign work</dd></div>
-    <div class="fact"><dt>Typical project</dt><dd>Fixed fee per film · two to six weeks</dd></div>
+    <div class="fact"><dt>Typical project</dt><dd>Fixed fee per film</dd></div>
     <div class="fact"><dt>Territory</dt><dd>US / UK / EU, remote</dd></div>
     <div class="fact"><dt>Availability</dt><dd>{e(SITE['availability'])}</dd></div>
   </dl>
@@ -688,7 +688,7 @@ def contact() -> str:
     doc = (
         head(
             "Start a project",
-            f"Send a project brief to {SITE['name']}. Fixed fee per film, delivered in two to six weeks. Reply within two working days.",
+            f"Send a project brief to {SITE['name']}. Fixed fee per film. Reply within two working days.",
             og_image="portrait",
         )
         + header(active="contact.html")
@@ -708,7 +708,7 @@ def contact() -> str:
       <p class="kicker">Direct</p>
       <p style="margin-top:.9rem"><a href="mailto:{e(SITE['email'])}" style="border-bottom:1px solid var(--hair)">{e(SITE['email'])}</a></p>
       <p>Prefer to talk first? Send the brief anyway and say so — a twenty-minute call is usually faster than three rounds of email.</p>
-      <p class="mono" style="margin-top:2rem">Fixed fee per film<br>2–6 weeks<br>US / UK / EU</p>
+      <p class="mono" style="margin-top:2rem">Fixed fee per film<br>US / UK / EU</p>
       <span class="mono">{e(SITE['hours'])}</span>
     </aside>
 
