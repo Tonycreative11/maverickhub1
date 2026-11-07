@@ -741,9 +741,12 @@ def contact() -> str:
           <span class="field__label">Budget <i>required</i></span>
           <select name="budget" required aria-required="true">
             <option value="">Select a range</option>
+            <option>Under $1k</option>
+            <option>$1k–$3k</option>
+            <option>$3k–$5k</option>
+            <option>$5k–$10k</option>
             <option>$10k–$25k</option>
-            <option>$25k–$50k</option>
-            <option>$50k+</option>
+            <option>$25k+</option>
             <option>Not sure yet</option>
           </select>
         </label>
@@ -751,7 +754,9 @@ def contact() -> str:
           <span class="field__label">Live by <i>required</i></span>
           <select name="timeline" required aria-required="true">
             <option value="">Select a timeline</option>
-            <option>Within 4 weeks</option>
+            <option>Under a week</option>
+            <option>1–2 weeks</option>
+            <option>2–4 weeks</option>
             <option>1–3 months</option>
             <option>This quarter</option>
             <option>Just exploring</option>
